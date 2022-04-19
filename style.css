@@ -9,14 +9,14 @@ body {
 }
 header {
     background: linear-gradient(to bottom right, rgb(92, 149, 235), #333);
-    color: white;
+    color: rgb(69, 197, 97);
     padding: 25px;
 }
 header h1 {
     margin: 0;
 }
 main h2 {
-    color: black;
+    color: rgb(80, 45, 45);
     text-decoration: underline;
 }
 .container {
@@ -26,13 +26,13 @@ main h2 {
 
 /* Add Student Styles Below */
 .jane-style {
-    color: hotpink;
+    color: rgb(208, 230, 172);
     background-color: black;
     padding: 3px;
 }
 
 .code-ninja-style {
-    color: blue;
+    color: rgb(173, 22, 30);
     background-color: lightblue;
     padding: 3px;
 }
